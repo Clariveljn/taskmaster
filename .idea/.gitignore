@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Archivos y carpetas que Maven puede regenerar
+target/
+.idea/
+*.iml
+.DS_Store
+
+# Configuración de IntelliJ y otros IDEs
+*.class
+*.log
+*.swp
+*.bak
+*.tmp
+
+# Sistema operativo
+Thumbs.db
